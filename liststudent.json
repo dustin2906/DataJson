@@ -1,0 +1,50 @@
+{"students":[
+  { "id":"1","firstName":"John", "lastName":"Doe", "training":
+  {
+    "1":{
+      "start":"1.1.2017",
+      "end":"30.3.2017",
+      "place":"LPKS",
+      "supervisor":"YK"
+    }
+  }
+},
+  { "id":"2","firstName":"Anna", "lastName":"Smith", "training":
+  {
+    "1":{
+      "start":"1.2.2017",
+      "end":"30.4.2017",
+      "place":"LPKS",
+      "supervisor":"JV"
+    },
+    "2":{
+      "start":"1.6.2017",
+      "end":"30.8.2017",
+      "place":"Terveystalo",
+      "supervisor":"YK"
+    }
+  }
+},
+  { "id":"3","firstName":"Peter", "lastName":"Jones" , "training":
+  {
+    "1":{
+      "start":"1.5.2017",
+      "end":"30.7.2017",
+      "place":"Terveystalo",
+      "supervisor":"JV"
+    },
+    "2":{
+      "start":"1.9.2017",
+      "end":"30.11.2017",
+      "place":"LPKS",
+      "supervisor":"JS"
+    },
+    "3":{
+      "start":"1.1.2018",
+      "end":"30.3.2018",
+      "place":"LPKS",
+      "supervisor":"YK"
+    }
+  }
+}
+]}
